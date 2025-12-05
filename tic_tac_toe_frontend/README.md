@@ -1,16 +1,12 @@
-# tic_tac_toe_frontend
+# Tic Tac Toe — Ocean Professional
 
-A new Flutter project.
+A modern, two-player (local) Tic Tac Toe built with Flutter.
+- Centered 3x3 board
+- Turn indicator, win/draw detection
+- New Game (board reset) and Reset All (scores + board)
+- Ocean Professional theme (Primary #2563EB, Secondary #F59E0B)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Run:
+- flutter pub get
+- flutter run
+- flutter test
